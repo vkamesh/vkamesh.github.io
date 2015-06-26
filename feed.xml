@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kameswar Rao Vaddina</title>
+    <description>Welcome to Dr. Kameswar Rao Vaddina's homepage.
+</description>
+    <link>http://folk.ntnu.no/kameswav/</link>
+    <atom:link href="http://folk.ntnu.no/kameswav/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 Mar 2015 23:07:50 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Mar 2015 23:07:50 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Welcome to homepage!</title>
+        <description>&lt;p&gt;Hi there, I am Kameswar Rao Vaddina, in short people call me Kamesh (ka-may-
+sh). I am a currently working as a postdoc researcher at the Department of
+Computer and Information Science (idi), Norwegian University of Science and
+Tecnology (NTNU).&lt;/p&gt;
+
+&lt;p&gt;My research interests are as follows:&lt;/p&gt;
+
+&lt;p&gt;1) Thermal modeling and analysis of chips&lt;/p&gt;
+
+&lt;p&gt;2) &lt;code&gt;3D stacked chips&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;3) Energy efficiency of heterogenous systems.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 17 Mar 2015 21:06:47 +0100</pubDate>
+        <link>http://folk.ntnu.no/kameswav/homepage/update/2015/03/17/welcome-to-my-homepage.html</link>
+        <guid isPermaLink="true">http://folk.ntnu.no/kameswav/homepage/update/2015/03/17/welcome-to-my-homepage.html</guid>
+        
+        
+        <category>homepage</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
